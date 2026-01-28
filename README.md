@@ -113,7 +113,10 @@ Two regression models were trained and evaluated to predict the failure count ov
 - Linear Regression
 
 - Random Forest Regressor
-The models were evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), where lower values indicate better predictive performance.
+  
+- Jupiner notebook updated in Github repository "https://github.com/kondalraop/Predictive-Maintenance-for-medical-instruments/blob/main/Predictive-Maintenance-for-medical-instruments.ipynb"
+
+  The models were evaluated using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), where lower values indicate better predictive performance.
 
 #### Model Performance Summary
 
